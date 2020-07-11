@@ -1,5 +1,7 @@
-**Guid for installing macOS on Asus GL553VD**
-![cover](https://raw.githubusercontent.com/MohammadtaghiFarkhondekar/macOS-Mojave-For-Asus-ROG-GL553VD/master/img/cover-v2.jpg)
+# GL553VD MacOS
+
+> Repository fork is in progress.
+
 ----------------------------------------------
 1. After installing open terminal and run this Command=> 
 ```
