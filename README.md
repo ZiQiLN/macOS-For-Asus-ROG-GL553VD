@@ -6,9 +6,7 @@ Latest MacOS Installed with this configuration: **10.15.3**
 
 ![cover](./assets/cover.jpg)
 
-## Installation Guide
-
-For installation guide for installing MacOS on GL553VD check [INSTALL.md](./docs/INSTALL.md).
+> I'm changing my latop, so this repository will be no longer maintained.
 
 ## Configuration Specification
 
