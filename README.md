@@ -1,12 +1,9 @@
 # GL553VD MacOS
 
-Configuration for building Hackintosh on ASUS GL553VD based on Clover.
-
-Latest MacOS Installed with this configuration: **10.15.3**
+Hackintosh configuration for **ASUS GL533VD** based on **OpenCore**. For stable version which is tested and working on **Catalina 10.15.3** refer to `streamline/stable` brach. This configuration is in progress and I do not recommend using it until there will be a `v2.0` release tag.
 
 ![cover](./assets/cover.jpg)
 
-> I'm changing my latop, so this repository will be no longer maintained.
 
 ## Configuration Specification
 
