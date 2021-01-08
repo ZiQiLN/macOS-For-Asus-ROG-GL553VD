@@ -1,5 +1,7 @@
 # GL553VD MacOS
 
+> I've moved to MacBook Pro, and I'm no longer maintaining this configuration, still... If somebody needs a help with Hackintosh I would be open to help.
+
 Hackintosh configuration for **ASUS GL533VD** based on **OpenCore**. For stable version which is tested and working on **Catalina 10.15.3** refer to `streamline/stable` brach. This configuration is in progress and I do not recommend using it until there will be a `v2.0` release tag.
 
 ![cover](./assets/cover.jpg)
